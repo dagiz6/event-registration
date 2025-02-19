@@ -1,1 +1,1 @@
-# event-registration
+# event-registration system
